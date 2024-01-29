@@ -3,7 +3,7 @@
 <br>
 
 <p>
-🧑‍💻 Currently, I work as a QA! I hold a degree in Computer Engineering and an IT technician from IFPB (Federal Institute of Paraíba), and ever since, I've fallen in love with this amazing world of technology.
+🧑‍💻 Currently, I work as a QA and Front-end! I hold a degree in Computer Engineering and an IT technician from IFPB (Federal Institute of Paraíba), and ever since, I've fallen in love with this amazing world of technology.
 
 💼 Besides my journey as a QA, I also delve into front-end projects. My mission is to find the perfect harmony between usability and beauty, creating incredible experiences for users.
 </p>
