@@ -40,3 +40,6 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=Mysql&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&labelColor=0D1117)&nbsp;
 
+### Studying in this moment:
+
+![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp;
