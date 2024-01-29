@@ -32,14 +32,20 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; 
+![Node](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117)&nbsp;
+![Npm](https://img.shields.io/badge/-Npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp; 
+
 
 
 ### Skills QA:
 ![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=Selenium&labelColor=0D1117)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-0D1117?style=for-the-badge&logo=Cucumber&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=Postman&labelColor=0D1117)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=Mysql&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=Tailwind-css&labelColor=0D1117)&nbsp;
