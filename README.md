@@ -35,6 +35,8 @@
 
 
 ### Skills QA:
-![Selenium](https://img.shields.io/badge/-Selenium.js-0D1117?style=for-the-badge&logo=Selenium&labelColor=0D1117)&nbsp;
-
+![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=Selenium&labelColor=0D1117)&nbsp;
+![Cucumber](https://img.shields.io/badge/-Cucumber-0D1117?style=for-the-badge&logo=Cucumber&labelColor=0D1117)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=Mysql&labelColor=0D1117)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&labelColor=0D1117)&nbsp;
 
