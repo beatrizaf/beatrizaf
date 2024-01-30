@@ -17,7 +17,7 @@
 
  <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beatrizaf&bg_color=0d1117&color=FFB26F&line=FFB26F&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beatrizaf&bg_color=0d1117&color=FFB26F&line=FFB26F&point=403d3d&area=true&hide_border=true)](https://github.com/beatrizaf)
 
 <br>
 
