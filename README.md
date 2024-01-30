@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizaf&show_icons=true&count_private=true&hide_border=true&title_color=FFB26F&icon_color=FFB26F&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizaf&show_icons=true&count_private=true&hide_border=true&title_color=FFB26F&icon_color=FFB26F&text_color=c9d1d9&bg_color=0d1117" alt="Beatriz Araújo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaf&layout=compact&hide_border=true&title_color=FFB26F&text_color=FFB26F&bg_color=0d1117" />
 </div>
 
