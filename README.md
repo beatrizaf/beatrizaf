@@ -49,3 +49,7 @@
 
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=Tailwind-css&labelColor=0D1117)&nbsp;
+
+### Projects:
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrizaf&repo=Projeto-Spring&layout=compact&hide_border=true&title_color=FFB26F&text_color=ffffff&bg_color=0d1117)
