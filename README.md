@@ -49,3 +49,4 @@
 
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=Tailwind-css&labelColor=0D1117)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=Cypress&labelColor=0D1117)&nbsp;
