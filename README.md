@@ -43,6 +43,7 @@
 ![Cucumber](https://img.shields.io/badge/-Cucumber-0D1117?style=for-the-badge&logo=Cucumber&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=Postman&labelColor=0D1117)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=Mysql&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
